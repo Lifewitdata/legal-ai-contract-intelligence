@@ -164,13 +164,11 @@ legal-ai-contract-intelligence/
 * Fine-tune Legal-BERT on clause classification
 * Build Legal RAG Assistant
 * Deploy FastAPI service
-* Docker containerization
-* AWS deployment
 
 ---
 
 ## Author
 
-Fahad Kaushar
+Isfaque Ansari
 
 Data Analyst | NLP Enthusiast | Aspiring Data Scientist
